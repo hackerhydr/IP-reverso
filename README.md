@@ -10,7 +10,7 @@ pkg install python git -y
 git clone https://github.com/hackerhydr/IP-reverso.git
 cd IP-reverso
 
-python script-ip.py
+python python dns-tool.py
 
 ## Uso
 
